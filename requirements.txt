@@ -3,7 +3,7 @@ google_auth_oauthlib>=0.5.1
 protobuf>=4.21.11
 colorama==0.4.4
 rtfunicode==2.0
-certifi>=2021.10.8
+certifi>=2023.7.22
 six>=1.16.0
 levenshtein>=0.20.9
 regex>=2022.3.15
